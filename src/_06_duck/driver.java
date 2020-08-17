@@ -5,6 +5,7 @@ public static void main(String[] args) {
 	Duck bill = new Duck("cheese", 10);
 	bill.quack();
 	bill.waddle();
+	//bill.favoriteFood = "pizza";
 	wolf okami = new wolf("grey", 8);
 	okami.bark();
 	okami.howl();
